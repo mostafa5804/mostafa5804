@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:BFE3F7,55:FFF4DC,100:FAD9B0&text=Mostafa%20Erfani&fontColor=14213D&fontSize=54&fontAlignY=36&desc=Civil%20Engineer%20%C2%B7%20Technical%20Office%20Supervisor%20%C2%B7%20Water%20%26%20Gas%20Transmission%20Lines&descColor=3D4A66&descAlignY=58&descSize=17" alt="Mostafa Erfani" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:BFE3F7,55:FFF4DC,100:FAD9B0&text=Mostafa%20Erfani&fontColor=14213D&fontSize=54&fontAlignY=36&desc=Civil%20Engineer%20%C2%B7%20Technical%20Office%20Supervisor%20%C2%B7%20Water%20and%20Gas%20Transmission%20Lines&descColor=3D4A66&descAlignY=58&descSize=17" alt="Mostafa Erfani" width="100%" />
 
 <a href="https://github.com/mostafa5804">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=1F6FA8&center=true&vCenter=true&width=720&lines=Civil+engineer+%E2%80%94+water+%26+gas+transmission+lines;Technical+office+supervisor;I+build+tools+for+fun%2C+then+to+move+work+forward;Built+with+AI+%2B+good+friends" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=1F6FA8&center=true&vCenter=true&width=720&lines=Civil+engineer+%E2%80%94+water+and+gas+transmission+lines;Technical+office+supervisor;I+build+tools+for+fun%2C+then+to+move+work+forward;Built+with+AI+and+good+friends" alt="Typing intro" />
 </a>
 
 <br/>
